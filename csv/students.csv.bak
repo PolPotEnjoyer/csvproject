@@ -1,0 +1,12 @@
+#studentID,FirstName,Surname,CourseType,Module1,Module2,Module3
+1,George,Washtown,HND IT,Networking,Programming,Legislation
+2,Ioannes,Adman,BSC IT,Programming,Networking,Hardware
+3,Tommy,Geoffreyson,BSC Networking,Security,Business Environments,Legislation
+4,Jacob,Madman,HND IT,Hardware,Networking,Programming
+5,John,Monrokey,BSC IT,HCI,Networking,Hardware
+6,Johan Quincy,Spandom,BSC Networking,Legislation,Business Environments,
+7,Andris,Jacksone,HND IT,Legislation,HCI,Programming
+8,Marvin,van Porkin,BSC Networking,Hardware,Legislation,Business Environments
+9,Billiam Benry,Barrison,HND IT,Security,HCI,Networking
+10,James,Builder,BSC IT,HCI,Programming,Business Environments
+11,Jerk Ing,Pork,BSC Networking,Legislation,Security,Hardware
